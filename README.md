@@ -13,7 +13,7 @@ Dense (64 units, activation='relu')
 Dense (10 units, activation='softmax')
 The model is compiled with the Adam optimizer and categorical crossentropy loss function.
 Usage
-Clone the repository: git clone https://github.com/your-username/image-classification.git
+Clone the repository: git clone https://github.com/mackimart1/image-classification.git
 Install required libraries: pip install -r requirements.txt
 Run the model: python model.py
 Evaluate the model: python evaluate.py
